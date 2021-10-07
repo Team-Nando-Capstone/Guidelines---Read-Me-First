@@ -10,6 +10,7 @@ Please follow the guidelines below when creating new repositories for your capst
 
 * Add prefix 'NOxx-', where xx is the number for your group, for all repositories.
 * Use meaningful and concise names for your repositories. 
+* Set repository visibility to 'private'.
 
 
 ***Last updated: 7th Oct 2021.***
